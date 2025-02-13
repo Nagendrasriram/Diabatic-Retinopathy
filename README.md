@@ -107,9 +107,11 @@ Feel free to contribute to this project by submitting issues or pull requests. L
 ---
 
 ## 📧 Contact
-📩 **Email**: nimmanirishik@gmail.com  
-🔗 **LinkedIn**: [Nimmani Rishik](https://linkedin.com/in/nimmani-rishik-66b632287)  
-📸 **Instagram**: [rishik_3142](https://instagram.com/rishik_3142)
+📩 **Email**: nimmanirishik@gmail.com
+📩 **Email**: nagendra3feb@gmail.com
+🔗 **LinkedIn**: [Nimmani Rishik](https://linkedin.com/in/nimmani-rishik-66b632287) 
+🔗 **LinkedIn**: [Sriram Nagendra][(https://www.linkedin.com/in/nagendrasriram103/)]  
+
 
 ---
 
